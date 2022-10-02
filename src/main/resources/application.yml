@@ -1,6 +1,6 @@
 spring:
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.D
+    driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql:localhost:3306/sbms?allowPublicKeyRetrieval=true&useSSL=false
     username: root
     password: root
